@@ -1,4 +1,4 @@
-Date,Confirmed,Deaths,Recovered
+07Date,Confirmed,Deaths,Recovered
 03/10/20,1,0,0
 03/11/20,0,0,0
 03/12/20,0,0,0
@@ -131,3 +131,4 @@ Date,Confirmed,Deaths,Recovered
 07/17/20,926,18,1014
 07/18/20,918,17,1179
 07/19/20,924,16,997
+07/20/20,931,17,992
